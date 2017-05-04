@@ -1,0 +1,15 @@
+{
+  "name": "salesforce-bot",
+  "version": "0.0.1",
+  "description": "bot for salesforce",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonathan Baltz",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "3.7.0",
+    "restify": "4.3.0"
+  }
+}
